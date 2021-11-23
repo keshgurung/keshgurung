@@ -4,6 +4,7 @@
 <h1 align="center">Hi :wave:, I'm kesh Gurung</h1>
 <h3 align="center">A passionate frontend developer from London, UK</h3>
 </div>
+<br />
 
 - 🔭 I'm currently studying Software Engineering Immersive @ GA, London /
 - 🌱 I'm currently learning [MERN full stack web development]
