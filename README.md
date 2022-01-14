@@ -6,7 +6,7 @@
 </div>
 <br />
 
-- 🔭 I'm currently studying Software Engineering Immersive @ GA, London /
+- 🔭 Recently completed 12 week Software Engineering Immersive course @ GA, London
 - 🌱 I'm currently learning [MERN full stack web development]
 - 🚀  Currently contributing on https://github.com/sclemson/OneDayIn.git
 - :telescope: I’m currently working on [my react app](www.github.com/keshgurung)
