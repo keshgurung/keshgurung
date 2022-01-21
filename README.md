@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning [MERN full stack web development]
 - :telescope: I’m currently working on [HotelBook](https://github.com/keshgurung/HotelBook-)
 - :mailbox: How to reach me **gurungkesh9@gmail.com**
-- :page_facing_up: Know about my experiences [Kesh Gurung](www.keshgurung.com)
+- :page_facing_up: Know about my experiences on https://www.keshgurung.com 
 - :zap: Fun fact **i am a left-handed person.**
 
 <h3 align="left">Languages and Tools:</h3>
