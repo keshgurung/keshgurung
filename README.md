@@ -8,8 +8,8 @@
 
 - 🔭 Recently completed 12 week Software Engineering Immersive course @ GA, London
 - 🌱 I'm currently learning [MERN full stack web development]
-- 🚀  Currently contributing on https://github.com/keshgurung/My-Story-
-- :telescope: I’m currently working on [my story](https://github.com/keshgurung/My-Story-)
+<!-- - 🚀  Currently contributing on https://github.com/keshgurung/My-Story- -->
+- :telescope: I’m currently working on [my story](https://github.com/keshgurung/HotelBook-)
 - :mailbox: How to reach me **gurungkesh9@gmail.com**
 - :page_facing_up: Know about my experiences [www.github.com/keshgurung](www.github.com/keshgurung)
 - :zap: Fun fact **i am a left-handed person.**
