@@ -2,13 +2,13 @@
 <!-- ![octocat](octocat.png) -->
 <div>
 <h1 align="center">Hi :wave:, I'm kesh Gurung</h1>
-<h3 align="center">A passionate frontend developer from London, UK</h3>
+<h3 align="center">A passionate junior web developer from London, UK</h3>
 </div>
 <br />
 
-- 🔭 Recently completed 12 week Software Engineering Immersive course @ GA, London
-- 🌱 I'm currently learning [MERN full stack web development]
-- :telescope: I’m currently working on [HotelBook](https://github.com/keshgurung/HotelBook-)
+- 🔭 Completed 12 week Software Engineering Immersive course @ GA, London
+- 🌱 I'm currently learning [Typescript with React]
+- :telescope: I’m currently working on [ukmaroom](https://github.com/keshgurung/ukmaroom-)
 - :mailbox: How to reach me **gurungkesh9@gmail.com**
 - :page_facing_up: Know about my experiences on https://www.keshgurung.com 
 - :zap: Fun fact **i am a left-handed person.**
