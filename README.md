@@ -6,11 +6,12 @@
 </div>
 <br />
 
-- 🔭 Completed 12 week Software Engineering Immersive course @ GA, London
+<!-- - 🔭 Completed 12 week Software Engineering Immersive course @ GA, London  -->
+
 - 🌱 I'm currently learning [Typescript with React]
 - :telescope: I’m currently working on [ukmaroom](https://github.com/keshgurung/ukmaroom-)
 - :mailbox: How to reach me **gurungkesh9@gmail.com**
-- :page_facing_up: Know about my experiences on https://www.keshgurung.com 
+<!-- - :page_facing_up: Know about my experiences on https://www.keshgurung.com -->
 - :zap: Fun fact **i am a left-handed person.**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +20,7 @@
 
 ## Connect With Me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gurungkesh9/)
+<!-- [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gurungkesh9/) -->
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gunners_kesh)
 
 
